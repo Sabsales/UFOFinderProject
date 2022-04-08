@@ -1,2 +1,1 @@
-# UFOFinderProject
-Repository holding the required files.
+There is no finished analysis for this project
